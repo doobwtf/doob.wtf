@@ -107,7 +107,7 @@ Se você acessou algum link de filme ou série e ele te redirecionou para esta s
 1. O conteúdo não existe ou está corrompido;
 2. Foi removido por uma [solicitação de remoção de conteúdo](dmca.md);
 
-Podem surgir outros motivos internos para o link estar inválido. Se preferir, você pode nos alertar sobre este erro pelo e-mail: [suporte@doob.wtf](mailto:suporte@doob.wtf)
+Podem surgir outros motivos internos para o link estar inválido. [Saiba mais](conteudo-invalido.md).
 
 </details>
 
