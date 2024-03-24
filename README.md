@@ -6,7 +6,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -75,7 +75,7 @@ Recomendamos fortemente que você utilize os seguintes softwares:&#x20;
 
 2. [QBitTorrent](https://www.qbittorrent.org/download) (para computador)
 
-Em vez de utilizar o aplicitativo original do uTorrent, indicamos que utilize os citados acima. Isso porque o [uTorrent original é acusado de minerar bitcoin em computadores](https://www.techtudo.com.br/noticias/2015/03/utorrent-usa-seu-computador-para-minerar-bitcoins-entenda-polemica.ghtml), que pode danificar seu computador.
+Em vez de utilizar o aplicitativo original do uTorrent, indicamos que utilize os citados acima. Isso porque o [uTorrent original é acusado de minerar bitcoins em computadores](https://www.techtudo.com.br/noticias/2015/03/utorrent-usa-seu-computador-para-minerar-bitcoins-entenda-polemica.ghtml), que pode danificar seu computador.
 
 </details>
 
