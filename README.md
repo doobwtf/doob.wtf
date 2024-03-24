@@ -65,7 +65,16 @@ No link disponibilizado, você passará por alguns anúncios para que você cheg
 
 <details>
 
-<summary>Como faço para extrair os arquivos .torrent?</summary>
+<summary>Como faço para baixar e extrair os filmes e séries?</summary>
+
+Para receber o link magnético contendo o filme ou série que procura, siga os seguintes passos:&#x20;
+
+1. [Procure pelo filme ou série desejada](./#como-faco-para-procurar-filmes-e-series) e desça até encontrar as seções `Dublado` e `Legendado`;
+
+<!---->
+
+2. Clique no botão <img src=".gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">;
+3. [Passe pelos anúncios](https://www.youtube.com/watch?v=BT-KKSM5z4g\&pp=ygUGc3VhdXJs);
 
 Recomendamos fortemente que você utilize os seguintes softwares:&#x20;
 
@@ -83,9 +92,22 @@ Em vez de utilizar o aplicitativo original do uTorrent, indicamos que utilize os
 
 <summary>Por que o DOOB não disponibiliza players?</summary>
 
-Justamente para evitar [DMCA](dmca.md) o máximo possível, apenas redirecionamos para arquivos .torrent para que você baixe na melhor qualidade e evite propagandas.
+Justamente para evitar [DMCA](broken-reference) o máximo possível, apenas redirecionamos para arquivos .torrent para que você baixe na melhor qualidade e evite propagandas.
 
 No momento, não temos planos de desenvolver uma plataforma de streaming.
+
+</details>
+
+<details>
+
+<summary>Por que o link de download está inválido?</summary>
+
+Se você acessou algum link de filme ou série e ele te redirecionou para esta seção, significa que:
+
+1. O conteúdo não existe ou está corrompido;
+2. Foi removido por uma [solicitação de remoção de conteúdo](dmca.md);
+
+Podem surgir outros motivos internos para o link estar inválido. Se preferir, você pode nos alertar sobre este erro pelo e-mail: [suporte@doob.wtf](mailto:suporte@doob.wtf)
 
 </details>
 
