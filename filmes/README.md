@@ -20,3 +20,7 @@ layout:
 
 Encontrou algum problema? Por favor, reporte em: [oi@doob.wtf](mailto:oi@doob.wtf)
 {% endhint %}
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Barbie (2023)</strong></td><td><p></p><p><img src="../.gitbook/assets/DOWNLOAD button.png" alt=""></p></td><td></td><td><a href="../.gitbook/assets/share.jpg">share.jpg</a></td><td><a href="barbie-2023.md">barbie-2023.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
