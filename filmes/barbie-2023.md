@@ -13,8 +13,16 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=NVIpIMqeJVM&ab_channel=WarnerBros.PicturesBrasil" %}
 
-## Dublado
 
-#### Resolução: 1080p | Tamanho: 7.94 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://magnet/?xt=urn:btih:VWAS5AYFIMSOXXE62JLARCNBURLRXNH5\&dn=Barbie%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1%20-%20REPACK\&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce)
 
-## Legendado
+## Downloads
+
+{% hint style="info" %}
+Para receber o link magnético e começar a aproveitar o filme, você deverá passar por alguns anúncios. Caso você encontre algum problema, leia a nossa [seção de dúvidas](../#duvidas) ou entre em contato conosco: [suporte@doob.wtf](mailto:suporte@doob.wtf)
+{% endhint %}
+
+### Dublado
+
+#### Resolução: 1080p | Tamanho: 7.94 GB[ <img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](http://doob.ftp.sh/barbie)
+
+### Legendado
