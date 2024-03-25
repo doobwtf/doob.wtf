@@ -23,8 +23,6 @@ layout:
 
 # Barbie (2023)
 
-{% embed url="https://image.tmdb.org/t/p/original/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" fullWidth="true" %}
-
 ## Trailer
 
 {% embed url="https://www.youtube.com/watch?v=NVIpIMqeJVM&ab_channel=WarnerBros.PicturesBrasil" %}
@@ -39,6 +37,6 @@ Para receber o link magnético e começar a aproveitar o filme, você deverá pa
 
 ### Dublado
 
-#### Resolução: 1080p | Tamanho: 7.94 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](http://doob.ftp.sh/barbie)
+#### Resolução: 1080p | Tamanho: 7.94 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado)
 
 ### Legendado
