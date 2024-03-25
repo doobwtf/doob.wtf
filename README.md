@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# DOOB.WTF
+# Página Inicial
 
 <div align="left">
 
@@ -33,7 +33,9 @@ Estamos disponibilizando uma plataforma gratuita de filmes e séries que, mesmo 
 
 Para que o site continue na ativa, faça uma doação em PIX no site abaixo:
 
-{% embed url="https://livepix.gg/doob" %}
+{% embed url="https://livepix.gg/rys" %}
+A página no LivePix é do criador do DOOB, que também é criador de conteúdo nas redes sociais. O DOOB não tem nenhuma conexão direta com o site em si.
+{% endembed %}
 
 ## Dúvidas
 
