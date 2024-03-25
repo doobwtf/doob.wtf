@@ -3,6 +3,22 @@ description: >-
   Barbie começa a ter pensamentos estranhos e sua aparência muda, então ela
   parte para o mundo real com Ken para tentar encontrar uma solução e voltar a
   ser uma boneca perfeita.
+cover: ../.gitbook/assets/share.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Barbie (2023)
