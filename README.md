@@ -21,8 +21,6 @@ layout:
 
 </div>
 
-[DOOB](./) é um site minimalista de filmes e séries totalmente gratuito.
-
 ## Sobre o DOOB <a href="#sobre" id="sobre"></a>
 
 Somos uma plataforma digital, oferecendo diariamente através da colaboração dos usuários, diversos arquivos .torrent de filmes e séries recém-lançados na melhor qualidade possível.
