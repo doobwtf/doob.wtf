@@ -3,12 +3,7 @@ description: >-
   Barbie começa a ter pensamentos estranhos e sua aparência muda, então ela
   parte para o mundo real com Ken para tentar encontrar uma solução e voltar a
   ser uma boneca perfeita.
-cover: ../.gitbook/assets/share.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -22,6 +17,8 @@ layout:
 ---
 
 # Barbie (2023)
+
+{% embed url="https://image.tmdb.org/t/p/original/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" %}
 
 ## Trailer
 
