@@ -6,5 +6,5 @@
   * [Barbie (2023)](filmes/barbie-2023.md)
   * [Oppenheimer (2023)](filmes/oppenheimer-2023.md)
 * [Séries](series.md)
-* [Conteúdo inválido](conteudo-invalido.md)
+* [Conteúdo Inválido](conteudo-invalido.md)
 * [DMCA](dmca.md)

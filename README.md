@@ -76,7 +76,7 @@ Para receber o link magnético contendo o filme ou série que procura, siga os s
 2. Clique no botão <img src=".gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">;
 3. [Passe pelos anúncios](https://www.youtube.com/watch?v=BT-KKSM5z4g\&pp=ygUGc3VhdXJs);
 
-Recomendamos fortemente que você utilize os seguintes softwares:&#x20;
+Para extração, recomendamos fortemente que você utilize os seguintes softwares:&#x20;
 
 1. [Stremio](https://www.stremio.com/downloads) (para computador e celular)
 
