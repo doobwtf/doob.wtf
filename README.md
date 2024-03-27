@@ -47,7 +47,7 @@ Sua dúvida não foi resolvida? Entre em contato: [oi@doob.wtf](mailto:oi@doob.w
 
 O DOOB é uma plataforma que disponibiliza links de arquivos .torrent de filmes e séries, ou seja, não indexamos ou armazenamos nenhum tipo de conteúdo relacionado ao filme (além dos posters) no nosso site.
 
-Para assistir filmes e séries, basta procurar pelo conteúdo desejado utilizando nossa [barra de pesquisa](./#como-faco-para-procurar-filmes-e-series), e na página do conteúdo, estará o link de download.
+Para assistir filmes e séries, basta procurar pelo conteúdo desejado utilizando nossa [barra de pesquisa](https://doob.rys.wtf/?q=), e na página do conteúdo, estará o link de download.
 
 No link disponibilizado, você passará por alguns anúncios para que você chegue à etapa de download.
 
@@ -92,7 +92,7 @@ Em vez de utilizar o aplicitativo original do uTorrent, indicamos que utilize os
 
 <summary>Por que o DOOB não disponibiliza players?</summary>
 
-Justamente para evitar [DMCA](broken-reference) o máximo possível, apenas redirecionamos para arquivos .torrent para que você baixe na melhor qualidade e evite propagandas.
+Justamente para evitar [DMCA](dmca.md) o máximo possível, apenas redirecionamos para arquivos .torrent para que você baixe na melhor qualidade e evite propagandas.
 
 No momento, não temos planos de desenvolver uma plataforma de streaming.
 
