@@ -20,6 +20,6 @@ Para receber o link magnético e começar a aproveitar o filme, você deverá pa
 
 ### Dublado
 
-#### Resolução: 1080p (BluRay) | Tamanho: 4.13 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado)
+#### Resolução: 1080p (BluRay) | Tamanho: 4.13 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado) <a href="#download-1" id="download-1"></a>
 
 ### Legendado
