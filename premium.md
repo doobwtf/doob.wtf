@@ -15,9 +15,15 @@ Ao assinar o DOOB Premium, você recebe os seguintes privilégios:
 
 ## Preços
 
-### R$ 29,99 /mês
+### R$ 29,99 /mês <a href="#mensal" id="mensal"></a>
 
-### ~~R$ 359,88~~ R$ 323,89 /ano (**10% de desconto**)
+Pague no valor de **R$ 29,99** para obter acesso mensal ao nosso canal exclusivo.
+
+### :gem: R$ 323,89 /ano (**10% de desconto**) <a href="#anual" id="anual"></a>
+
+Pague no valor de **R$ 323,89** para obter acesso anual ao nosso canal exclusivo.
+
+Com o valor padrão, você pagaria _**R$ 359,88**_.
 
 ## Meios de pagamento
 
