@@ -31,3 +31,4 @@ Com o valor padrão, você pagaria _**R$ 359,88**_.
 No momento, estamos trabalhando para adicionar meios de pagamentos mais seguros e eficazes para você. Portanto, a assinatura DOOB Premium está suspensa temporariamente.
 {% endhint %}
 
+<img src=".gitbook/assets/logo_pix.png" alt="" data-size="line"> <img src=".gitbook/assets/PayPal.png" alt="" data-size="line">
