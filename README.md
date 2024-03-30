@@ -21,9 +21,13 @@ layout:
 
 </div>
 
+{% hint style="warning" %}
+O DOOB está em open beta, então alguns detalhes podem estar incompletos. [Deixe seu feedback](https://doob.ftp.sh/feedback).
+{% endhint %}
+
 ## Sobre o DOOB <a href="#sobre" id="sobre"></a>
 
-Somos uma plataforma digital, oferecendo diariamente através da colaboração dos usuários, diversos arquivos .torrent de filmes e séries recém-lançados na melhor qualidade possível.
+Somos uma plataforma digital, oferecendo diariamente através da colaboração dos usuários, diversos links magnéticos de filmes e séries recém-lançados na melhor qualidade possível.
 
 ## Contribua com o DOOB <a href="#contribua" id="contribua"></a>
 
