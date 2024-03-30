@@ -34,8 +34,16 @@ layout:
 
 ### Dublado
 
-####
+#### Resolução: 1080p | Tamanho: 2.83 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado/1) <a href="#dub-1" id="dub-1"></a>
 
-#### Resolução: 1080p | Tamanho: 7.94 GB (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado) <a href="#download-1" id="download-1"></a>
+#### Resolução: 1080p | Tamanho: 7.94 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado/2) <a href="#dub-2" id="dub-2"></a>
+
+#### Resolução: 2160p x265 | Tamanho: 12.92 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado/3) <a href="#dub-3" id="dub-3"></a>
 
 ### Legendado
+
+#### Resolução: 720p | Tamanho: 800 MB | WEB-DL (.MP4) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/barbie/legendado/1) <a href="#leg-1" id="leg-1"></a>
+
+#### Resolução: 720p | Tamanho: 1.02 GB | WEB-DL (.MP4) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/barbie/legendado/2) <a href="#leg-2" id="leg-2"></a>
+
+#### Resolução: 1080p | Tamanho: 1.40 GB | WEB-DL (.MP4) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/barbie/legendado/3) <a href="#leg-3" id="leg-3"></a>

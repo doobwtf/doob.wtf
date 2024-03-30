@@ -20,6 +20,14 @@ description: >-
 
 ### Dublado
 
-#### Resolução: 1080p (BluRay) | Tamanho: 4.13 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado) <a href="#download-1" id="download-1"></a>
+#### Resolução: 1080p | Tamanho: 4.13 GB | BluRay (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado) <a href="#dub-1" id="dub-1"></a>
+
+#### Resolução: 1080p | Tamanho: 11.64 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado/2) <a href="#dub-2" id="dub-2"></a>
+
+#### Resolução: 2160 x265 | Tamanho: 21.96 GB | BluRay IMAX DV HDR (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/dublado/3) <a href="#dub-3" id="dub-3"></a>
 
 ### Legendado
+
+#### Resolução: 720p | Tamanho: 974 MB | BluRay (.MKV)  <a href="#leg-1" id="leg-1"></a>
+
+#### Resolução: 720p | Tamanho: 1.62 GB | BluRay (.MP4)  <a href="#leg-2" id="leg-2"></a>

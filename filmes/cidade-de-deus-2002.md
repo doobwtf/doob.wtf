@@ -20,11 +20,11 @@ description: >-
 
 ### Dublado
 
-#### Resolução: 720p (BluRay) | Tamanho: 1.56 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/1) <a href="#download-1" id="download-1"></a>
+#### Resolução: 720p | Tamanho: 1.56 GB | BluRay (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/1) <a href="#dub-1" id="dub-1"></a>
 
-#### Resolução: 1080p x265 (BluRay) | Tamanho: 2.01 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/2) <a href="#download-2" id="download-2"></a>
+#### Resolução: 1080p x265 | Tamanho: 2.01 GB | BluRay (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/2) <a href="#dub-2" id="dub-2"></a>
 
-#### Resolução: 1080p x264 (BluRay) | Tamanho: 2.47 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/3) <a href="#download-3" id="download-3"></a>
+#### Resolução: 1080p x264 | Tamanho: 2.47 GB | BluRay (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/cidade-de-deus/dublado/3) <a href="#dub-3" id="dub-3"></a>
 
 ### Legendado <a href="#legendado" id="legendado"></a>
 

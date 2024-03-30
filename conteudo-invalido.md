@@ -2,7 +2,7 @@
 description: Encontrou algum conteúdo redirecionando para esta página? Saiba o motivo aqui.
 ---
 
-# Conteúdo inválido
+# Conteúdo Inválido
 
 {% hint style="info" %}
 Se preferir, você pode entrar em contato conosco se sentir que isto é um problema: [suporte@doob.wtf](mailto:suporte@doob.wtf)
@@ -11,6 +11,8 @@ Se preferir, você pode entrar em contato conosco se sentir que isto é um probl
 ## O conteúdo não existe ou está corrompido
 
 Se você foi redirecionado para esta página, significa que o conteúdo não existe (você acessou um link do nosso encurtador que não foi registrado, ex: [doob.ftp.sh/barbenheimer](https://doob.ftp.sh/barbenheimer)) ou ele foi reportado para nós que está apresentando falhas.
+
+**Lembre-se:** os links de download sempre terminam com um número para identificação da qualidade do arquivo disponibilizado (ex: [doob.ftp.sh/nome-do-filme/dublado/1](https://doob.ftp.sh/nome-do-filme/dublado/1)). Sempre certifique-se de que o site está realmente disponível no nosso catálogo.
 
 Geralmente, quando é reportado que está corrompido, procuramos outros links magnéticos que atualizamos assim que for possível.
 
