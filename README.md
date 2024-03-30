@@ -42,7 +42,7 @@ A página no LivePix é do criador do DOOB, que também é criador de conteúdo 
 ## Dúvidas
 
 {% hint style="info" %}
-Sua dúvida não foi resolvida? Entre em contato: [oi@doob.wtf](mailto:oi@doob.wtf)
+Sua dúvida não foi resolvida? Entre em contato: [suporte@doob.wtf](mailto:suporte@doob.wtf)
 {% endhint %}
 
 <details>

@@ -34,6 +34,8 @@ layout:
 
 ### Dublado
 
-#### Resolução: 1080p | Tamanho: 7.94 GB [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado) <a href="#download-1" id="download-1"></a>
+####
+
+#### Resolução: 1080p | Tamanho: 7.94 GB (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button.png" alt="" data-size="line">](https://doob.ftp.sh/barbie/dublado) <a href="#download-1" id="download-1"></a>
 
 ### Legendado
