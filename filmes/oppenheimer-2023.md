@@ -28,6 +28,6 @@ description: >-
 
 ### Legendado
 
-#### Resolução: 720p | Tamanho: 974 MB | BluRay (.MKV)  <a href="#leg-1" id="leg-1"></a>
+#### Resolução: 720p | Tamanho: 974 MB | BluRay (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/legendado/1) <a href="#leg-1" id="leg-1"></a>
 
-#### Resolução: 720p | Tamanho: 1.62 GB | BluRay (.MP4)  <a href="#leg-2" id="leg-2"></a>
+#### Resolução: 720p | Tamanho: 1.62 GB | BluRay (.MP4) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/oppenheimer/legendado/2) <a href="#leg-2" id="leg-2"></a>

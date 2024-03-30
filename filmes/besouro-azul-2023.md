@@ -17,3 +17,17 @@ description: >-
 {% hint style="info" %}
 **Para receber o link magnético e começar a aproveitar o filme, você deverá passar por alguns anúncios.** Caso você encontre algum problema, leia a nossa [seção de dúvidas](../#duvidas) ou entre em contato conosco: [suporte@doob.wtf](mailto:suporte@doob.wtf)
 {% endhint %}
+
+### Dublado
+
+#### Resolução: 1080p | Tamanho: 2.91 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/besouro-azul/dublado/1)
+
+#### Resolução: 1080p | Tamanho: 8.31 GB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/besouro-azul/dublado/2)
+
+#### Resolução: 2160p x265 | Tamanho: 23.21 GB | DV HDR (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/besouro-azul/dublado/3)
+
+### Legendado
+
+#### Resolução: 720p | Tamanho: 798 MB | WEB-DL (.MKV) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/besouro-azul/legendado/1)
+
+#### Resolução: **720p** | Tamanho: 1.14 GB | WEB-DL (.MP4) [<img src="../.gitbook/assets/DOWNLOAD button (1).png" alt="" data-size="line">](https://doob.ftp.sh/besouro-azul/legendado/2)
