@@ -23,21 +23,17 @@ layout:
 
 ## Sobre o DOOB <a href="#sobre" id="sobre"></a>
 
-Somos uma plataforma digital, oferecendo diariamente através da colaboração dos usuários, diversos links magnéticos de filmes e séries recém-lançados na melhor qualidade possível.
+Somos uma plataforma digital gratuita oferecendo diariamente, através da colaboração dos usuários, diversos links magnéticos de filmes e séries recém-lançados na melhor qualidade possível.
 
 {% hint style="warning" %}
 O DOOB está atualmente na fase open beta, então alguns detalhes podem estar incompletos. [Deixe seu feedback](https://doob.ftp.sh/feedback).
 {% endhint %}
 
-## Contribua com o DOOB <a href="#contribua" id="contribua"></a>
+## Roadmap
 
-Estamos disponibilizando uma plataforma gratuita de filmes e séries que, mesmo assim, nos exige um custo. Mesmo fazendo proveito dos anúncios, o retorno ainda é muito baixo.
+Acompanhe o progresso do DOOB no link abaixo.
 
-Para que o site continue na ativa, faça uma doação em PIX no site abaixo:
-
-{% embed url="https://livepix.gg/rys" %}
-A página no LivePix é do criador do DOOB, que também é criador de conteúdo nas redes sociais. O DOOB não tem nenhuma conexão direta com o site em si.
-{% endembed %}
+{% embed url="https://telegra.ph/DOOB--Roadmap-04-11" %}
 
 ## Dúvidas
 
